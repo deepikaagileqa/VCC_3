@@ -211,10 +211,11 @@ The Wiki contains the following four documentation pages:
 | ✨ [Feature and Usage](../../wiki/Feature-and-usage) | Detailed application features and usage instructions. |
 | ⚙️ [Installation and Setup](../../wiki/installation-and-setup) | Installation requirements, setup guidance, and troubleshooting. |
 
-## ©️ Copyright
-
-© 2026 WanderWise Adventures. All Rights Reserved.
 
 **WanderWise Adventures**
 
 *✈️ Plan your journey. Discover new destinations. Organize your dream vacation.*
+
+## ©️ Copyright
+
+© 2026 WanderWise Adventures. All Rights Reserved.
